@@ -10,3 +10,4 @@ Data Analyst
 1. [Predictive Churn Employee Model](https://github.com/Kfredericha/Predictive-Churn-) - A Final Project for Data Science Bootcamp by Rakamin Academy
 
 ## Check My Projects
+1. [Annual Sales Analytics](https://github.com/Kfredericha/Project-Based-Internship---Business-Intelligence-) - A Project Based Internship from Bank Muamalat. Roleplaying as Business Intelligence Analyst
