@@ -8,7 +8,7 @@ My name is Keisha, I recently graduated from Data Science: Machine Learning Boot
 
 Data Analyst
 1. [Employee Attrition Prediction Using Machine Learning](https://github.com/Kfredericha/Predictive-Churn-) - Developed an early warning system to address 63% employee turnover, exceeding industry benchmarks by 3x and Translated model predictions into actionable HR insights, preventing an estimated 290 employee resignations.
-2. [Pharmaceutical Sales Analytics & Performance Dashboard](https://github.com/Kfredericha/Project-Based-Internship---Big-Data-Analytics) - Analyzing 4 years of Kimia Farma product sales data in a Big Data Analytics internship, transforming raw datasets using SQL and data warehousing concepts into an interactive dashboard for sales trend and performance analysis.
+2. [Pharmaceutical Sales Analytics & Performance Dashboard](https://github.com/Kfredericha/Project-Based-Internship---Big-Data-Analytics) - Analyzes a pharmaceutical company's (Kimia Farma) sales performance (2020–2023) by integrating multiple datasets to uncover insights on revenue trends, regional performance, and customer satisfaction. Using BigQuery and Looker Studio, it delivers data-driven insights to improve operational efficiency and optimize business strategy.
 
 
 Business Analyst
